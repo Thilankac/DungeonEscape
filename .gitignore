@@ -47,3 +47,9 @@ Dist/
 AgentScripts/
 Temp/
 *.zip
+
+# Archives / local junk
+*.rar
+Assets/Scripts/Editor/setup_result.txt
+Assets/Scripts/Editor/setup_result.txt.meta
+
